@@ -2,6 +2,7 @@
 
 我來自台灣，目前一名大學一年級的新生
 
+email : henrylai922@gmail.com
 <!--
 **HenryLai921/HenryLai921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
