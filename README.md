@@ -1,19 +1,14 @@
-## Hi there 👋
+## 關於我 👋
 
-我來自台灣，目前是資訊工程學系一年級的新生
+你好，我是一名資訊工程學系的大一新生。我目前正致力於奠定電腦科學的基礎知識，並對軟體開發領域抱有濃厚的興趣。
 
-email : henrylai922@gmail.com
-<!--
-**HenryLai921/HenryLai921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 學習與技能
 
-Here are some ideas to get you started:
+* 在程式語言方面，我對 **Python** 較為熟悉，並希望能運用它來實作更多專案。
+* 目前正專注於系上的基礎課程，希望能打好未來發展的根基。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 個人興趣
+
+* 在課餘時間，我喜歡玩賽車遊戲，這能訓練我的專注力與即時反應。
+* 會自組電腦，對二手市場很感興趣
+* 我也會利用時間自我學習，並持續關注資訊領域的相關新知。
